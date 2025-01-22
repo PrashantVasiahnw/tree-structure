@@ -22,8 +22,8 @@ This project demonstrates the creation of an interactive tree structure with dra
 - **Install the dependencies:
 - **Running the Application by *npm install* 
 
-Running Tests
-## We recommend installing an extension to run Jest tests in your IDE. Alternatively, you can run the tests from the command line:
+## Running Tests
+We recommend installing an extension to run Jest tests in your IDE. Alternatively, you can run the tests from the command line:
 
 ## Dependencies
 - **webpack**: A module bundler for JavaScript applications.
