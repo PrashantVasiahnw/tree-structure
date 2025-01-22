@@ -20,8 +20,7 @@ This project demonstrates the creation of an interactive tree structure with dra
 - **Ensure that you have Node.js and npm (Node Package Manager) installed.
 - **Clone the repository:
 - **Install the dependencies:
-- **Running the Application by 
-    ## npm start 
+- **Running the Application by npm install 
 
 Running Tests
 ## We recommend installing an extension to run Jest tests in your IDE. Alternatively, you can run the tests from the command line:
